@@ -192,9 +192,9 @@ footer .ie {
     pointer-events: none;
 }
 
-#thank,
-#y,
-#ou {
+#Аушев,
+#М,
+#ухамед {
     fill: none;
     stroke-linecap: round;
     stroke-linejoin: round;
@@ -202,13 +202,13 @@ footer .ie {
     opacity: 0;
 }
 
-#thank {
+#Аушев{
     stroke: #182838;
     stroke-dasharray: 2244;
     stroke-dashoffset: 2244;
 }
 
-#thank.active {
+#Аушев.active {
     -webkit-animation: handwritingAnimation 3s 1.2s linear forwards;
             animation: handwritingAnimation 3s 1.2s linear forwards;
 }
@@ -219,18 +219,18 @@ footer .ie {
     stroke-dashoffset: 767;
 }
 
-#y.active {
+#М.active {
     -webkit-animation: handwritingAnimation .5s 4.2s linear forwards;
             animation: handwritingAnimation .5s 4.2s linear forwards;
 }
 
-#ou {
+#ухамед{
     stroke: #182838;
     stroke-dasharray: 504;
     stroke-dashoffset: 504;
 }
 
-#ou.active {
+#ухамед.active {
     -webkit-animation: handwritingAnimation 1s 4.7s linear forwards;
             animation: handwritingAnimation 1s 4.7s linear forwards;
 }
